@@ -1,0 +1,7 @@
+-for lines
+    -scan using scanf for int, pull first, scan till null, save, pull last beore null
+    make int by multiply first by ten, add second
+    add to total
+    line_buff[128];
+    fgets(line_buff,127,stdin);
+    sscanf()
